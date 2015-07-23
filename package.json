@@ -1,0 +1,15 @@
+{
+  "name": "huyarl",
+  "version": "1.0.0",
+  "description": "Twitter bot for answering to Carl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "infinite-loop": "^0.2.2",
+    "tuiter": "^0.2.12"
+  }
+}
